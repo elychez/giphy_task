@@ -1,0 +1,6 @@
+framework module Pods_giphy_task_giphy_taskUITests {
+  umbrella header "Pods-giphy_task-giphy_taskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
